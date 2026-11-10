@@ -4,6 +4,10 @@ Case studies where I turn raw business data into clear answers and recommendatio
 ---
 
 ## Projects
+- [Who leaves a SaaS company, and why?](#who-leaves-a-saas-company-and-why) · Tableau
+- [How did IPL teams spend their player budget?](#how-did-ipl-teams-spend-their-player-budget) · SQL
+
+---
 
 ### Who leaves a SaaS company, and why?
 **Tableau · Data modelling · Churn analysis**
@@ -13,6 +17,15 @@ A 4-page interactive dashboard that tracks recurring revenue, finds the customer
 [![SaaS churn dashboard](https://the-why-behind.github.io/saas-revenue-churn-tableau/churn-drivers.jpg)](https://the-why-behind.github.io/saas-revenue-churn-tableau/)
 
 **[Read the case study →](https://the-why-behind.github.io/saas-revenue-churn-tableau/)** · [Live dashboard](https://public.tableau.com/app/profile/anastasiia.nevalahti/viz/RavenStackSaaSdata/About)
+
+---
+
+### How did IPL teams spend their player budget?
+**SQL · MySQL · CTEs · Window functions · Subqueries · CASE**
+
+Ten business questions answered with SQL on IPL squad data (228 players, 10 teams): total spending per team, each team's two most expensive players, each player's share of the team budget, price brackets (High / Medium / Low) and how Indian and overseas players compare on price.
+
+**[View the SQL code →](https://github.com/the-why-behind/SQLCaseStudy_IPL)**
 
 ---
 
