@@ -29,7 +29,7 @@ An analysis of how Finland's public expenditure by function changed over 1990–
 
 <img width="1051" height="469" alt="public-expenditure-changes" src="https://github.com/user-attachments/assets/3315ffd8-68c2-48ff-b41b-0a0e921ad865" />
 
-[View the notebook →](https://github.com/the-why-behind/public-expenditure-finland/blob/main/Public_expenditure.ipynb)
+**[View the notebook →](https://github.com/the-why-behind/public-expenditure-finland/blob/main/Public_expenditure.ipynb)**
 
 ---
 
