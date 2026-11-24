@@ -5,6 +5,7 @@ Case studies where I turn raw business data into clear answers and recommendatio
 
 ## Projects
 - [Who leaves a SaaS company, and why?](#who-leaves-a-saas-company-and-why) · Tableau
+- [Where does Finnish public money go?](#where-does-finnish-public-money-go) — Python
 - [How did IPL teams spend their player budget?](#how-did-ipl-teams-spend-their-player-budget) · SQL
 
 ---
@@ -20,6 +21,18 @@ A 4-page interactive dashboard that tracks recurring revenue, finds the customer
 
 ---
 
+### Where does Finnish public money go?
+
+**Python · pandas · API · Data visualisation**
+
+An analysis of how Finland's public expenditure by function changed over 1990–2024, measured as a share of GDP. Data is pulled directly from the Statistics Finland API. Total spending rose by about 10 percentage points, and almost all of the growth came from social protection (+7.8 pp), while spending on economic affairs fell the most.
+
+[![Change in public expenditure items 1990–2024](public-expenditure-changes.png)](https://github.com/the-why-behind/public-expenditure-finland/blob/main/Public_expenditure.ipynb)
+
+[View the notebook →](https://github.com/the-why-behind/public-expenditure-finland/blob/main/Public_expenditure.ipynb)
+
+---
+
 ### How did IPL teams spend their player budget?
 **SQL · MySQL · CTEs · Window functions · Subqueries · CASE**
 
@@ -28,10 +41,6 @@ Ten business questions answered with SQL on IPL squad data (228 players, 10 team
 **[View the SQL code →](https://github.com/the-why-behind/SQLCaseStudy_IPL)**
 
 ---
-
-## About me
-
-Business analyst based in Finland. I like the part of analytics where a messy question becomes a clear answer: understanding the business problem, checking the data, and presenting the result so that a decision is easy to make.
 
 **Tools**
 - **Data:** SQL, Python, Excel, Google Sheets
