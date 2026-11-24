@@ -54,4 +54,6 @@ Ten business questions answered with SQL on IPL squad data (228 players, 10 team
 
 [Tableau Public](https://public.tableau.com/app/profile/anastasiia.nevalahti)
 
+---
+
 [↑ Back to contents](#contents)
