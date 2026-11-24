@@ -27,7 +27,6 @@ A 4-page interactive dashboard that tracks recurring revenue, finds the customer
 
 An analysis of how Finland's public expenditure by function changed over 1990–2024, measured as a share of GDP. Data is pulled directly from the Statistics Finland API. Total spending rose by about 10 percentage points, and almost all of the growth came from social protection (+7.8 pp), while spending on economic affairs fell the most.
 
-[![Change in public expenditure items 1990–2024]](https://github.com/the-why-behind/public-expenditure-finland/blob/main/Public_expenditure.ipynb)
 <img width="1051" height="469" alt="public-expenditure-changes" src="https://github.com/user-attachments/assets/3315ffd8-68c2-48ff-b41b-0a0e921ad865" />
 
 [View the notebook →](https://github.com/the-why-behind/public-expenditure-finland/blob/main/Public_expenditure.ipynb)
