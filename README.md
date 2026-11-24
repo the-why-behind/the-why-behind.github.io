@@ -52,7 +52,7 @@ Ten business questions answered with SQL on IPL squad data (228 players, 10 team
 
 ## Contact
 
-📧 [anastasiia.nevalahti@gmail.com](mailto:anastasiia.nevalahti@gmail.com) · [Tableau Public](https://public.tableau.com/app/profile/SINUN-PROFIILISI)
+📧 [anastasiia.nevalahti@gmail.com](mailto:anastasiia.nevalahti@gmail.com) · [Tableau Public](https://public.tableau.com/app/profile/anastasiia.nevalahti/vizzes)
 
 ---
 
