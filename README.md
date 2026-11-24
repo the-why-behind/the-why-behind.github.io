@@ -45,7 +45,7 @@ Ten business questions answered with SQL on IPL squad data (228 players, 10 team
 ---
 
 **Tools**
-- **Data:** SQL, Python, Excel, Google Sheets
+- **Data:** SQL, Python, Excel, Google Sheets, Jupyter Notebook
 - **BI & visualisation:** Power BI, Tableau
 
 ---
