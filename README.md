@@ -3,7 +3,9 @@ Case studies where I turn raw business data into clear answers and recommendatio
 
 ---
 
-## Projects
+## Contents
+Click a title to scroll down to it.
+
 - [Who leaves a SaaS company, and why?](#who-leaves-a-saas-company-and-why) · Tableau
 - [Where does Finnish public money go?](#where-does-finnish-public-money-go) — Python
 - [How did IPL teams spend their player budget?](#how-did-ipl-teams-spend-their-player-budget) · SQL
@@ -51,3 +53,5 @@ Ten business questions answered with SQL on IPL squad data (228 players, 10 team
 ## Contact
 
 [Tableau Public](https://public.tableau.com/app/profile/anastasiia.nevalahti)
+
+[↑ Back to contents](#contents)
